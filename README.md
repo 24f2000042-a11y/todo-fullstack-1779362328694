@@ -1,0 +1,1 @@
+This README explains how to set up the todo application. Install dependencies, configure environment variables, and run the server.
